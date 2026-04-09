@@ -1,6 +1,6 @@
 # jpa03-nikitahuynh
 
-Running at: <https://nikitahuynh.dokku-16.cs.ucsb.edu>
+Running at: <https://jpa03-nikitahuynh.dokku-16.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
